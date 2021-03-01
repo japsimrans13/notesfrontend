@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/japsimrans13/notesfrontend/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/japsimrans13/notesfrontend/static/js/main.045aa998.chunk.js",
+    "main.js.map": "/japsimrans13/notesfrontend/static/js/main.045aa998.chunk.js.map",
+    "runtime-main.js": "/japsimrans13/notesfrontend/static/js/runtime-main.b3aec05f.js",
+    "runtime-main.js.map": "/japsimrans13/notesfrontend/static/js/runtime-main.b3aec05f.js.map",
+    "static/js/2.604e64fa.chunk.js": "/japsimrans13/notesfrontend/static/js/2.604e64fa.chunk.js",
+    "static/js/2.604e64fa.chunk.js.map": "/japsimrans13/notesfrontend/static/js/2.604e64fa.chunk.js.map",
+    "index.html": "/japsimrans13/notesfrontend/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/japsimrans13/notesfrontend/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.604e64fa.chunk.js.LICENSE.txt": "/japsimrans13/notesfrontend/static/js/2.604e64fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3aec05f.js",
+    "static/js/2.604e64fa.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.045aa998.chunk.js"
+  ]
+}
